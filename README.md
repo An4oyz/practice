@@ -86,4 +86,4 @@ g++ main.cpp -o calculator
 ## 👨‍💻 Автор
 
 Начинающий C++ разработчик  
-GitHub: your_username
+GitHub: An4oyz_104
