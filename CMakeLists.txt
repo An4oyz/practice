@@ -1,7 +1,6 @@
-cmake_minimum_required(VERSION 4.0)
+cmake_minimum_required(VERSION 3.25)
 project(untitled)
 
 set(CMAKE_CXX_STANDARD 26)
 
-add_executable(untitled
-        Проверка_IP_адреса.cpp)
+add_executable(untitled main.cpp)
